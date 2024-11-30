@@ -12,17 +12,13 @@ Für die Ausführung .env Erstellen mit:
 
 Funktionen:
 
-1. Extraktion des Datenbankschemas:
+ Extraktion des Datenbankschemas:
 
-       - Extrahiert Tabellen, Spalten, Primär- und Fremdschlüssel aus einer PostgreSQL-Datenbank.
+       - Extrahiert Tabellen, Spalten, Primär-  und Fremdschlüssel aus einer PostgreSQL-Datenbank.
 
-       - Stellt die Informationen in einer lesbaren Struktur bereit.
+       - Stellt die Informationen in einer lesbaren Struktur bereit (PlantUML).
 
-2. PlantUML-Visualisierung:
-
-       - Wandelt das Datenbankschema in PlantUML-Notation um, sodass das Sprachmodell dieses verarbeiten kann.
-
-3. Text-to-SQL Generierung:
+ Text-to-SQL Generierung:
 
         - Nimmt eine natürlichsprachliche Abfrage (z. B. "Anzahl aller Produkte") entgegen.
 
