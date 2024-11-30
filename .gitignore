@@ -13,6 +13,8 @@
 # Python virtual environment and cache files
 **/venv/
 **/__pycache__/
+__pycache__/
+
 
 # IDE and system files
 **/.idea/
